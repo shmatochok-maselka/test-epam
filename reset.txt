@@ -4,3 +4,6 @@ And here!
 ------------
 
 New text
+
+Added merge conflicts text
+
