@@ -7,3 +7,4 @@ New text
 
 Added merge conflicts text
 
+1
